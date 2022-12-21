@@ -5,7 +5,9 @@ from ZipFolders import ZipFiles
 def main():
 
     print('Архивирование папок ')
+
     print('Макеев Петр тел. 8-912-34-161-34 ')
+
     print('-----------------------------------------------')
 
     ZipFiles()
